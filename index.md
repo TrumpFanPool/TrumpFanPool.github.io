@@ -1,6 +1,6 @@
 ## Welcome to Trump Fan, a Cardano Stake Pool.
 
-![Testing]https://github.com/TrumpFanPool/Trump/blob/main/Hair200x200.png
+![Testing](https://github.com/TrumpFanPool/Trump/blob/main/Hair200x200.png?raw=true)
 
 You can use the [editor on GitHub](https://github.com/TrumpFanPool/TrumpFanPool.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
